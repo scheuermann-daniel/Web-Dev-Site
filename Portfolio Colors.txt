@@ -1,0 +1,8 @@
+Portfolio Colors:
+
+Buttons: fca311
+On Hover: fb8500
+
+Text: 000000
+
+background: f5ebe0
